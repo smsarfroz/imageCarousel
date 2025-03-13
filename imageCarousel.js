@@ -41,6 +41,14 @@ backwardIconButton.addEventListener("click", () => {
   setColorInDots();
 });
 
+setInterval(() => {
+    console.log("inside setTimeout");
+    curIndex++;
+    curIndex %= arrayLength;
+    imageSlide.innerHTML = `<img src=${imageArray[curIndex]} style="width: 1536px; height: 635px;" alt="">`;
+    setColorInDots();
+}, 5 * 1000);
+
 const navigationDots = document.querySelector(".navigationDots");
 
 navigationDots.addEventListener("click", (e) => {
