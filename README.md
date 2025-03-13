@@ -15,3 +15,5 @@ Photo by <a href="https://unsplash.com/@tdederichs?utm_content=creditCopyText&ut
 <a target="_blank" href="https://icons8.com/icon/61/forward">Forward</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/1806/back">Back</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/40410/full-stop">Dot</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
